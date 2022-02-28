@@ -1,0 +1,38 @@
+.body {
+  min-height: 2000px;
+}
+.display-4,
+h2 {
+  font-family: perpetua;
+  font-size: 100px;
+}
+.navbar-brand,
+a {
+  font-family: Helvetica;
+  font-size: 20px;
+}
+p,
+label {
+  font-family: helvetica;
+  font-size: 15px;
+}
+.card-body {
+  background-color: #734485;
+}
+.card-text {
+  color: #fdd3f8;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #2a1233;
+}
+.display-4,
+.lead {
+  color: antiquewhite;
+}
+#Projects {
+  background-color: #2a1233;
+}
+section {
+  padding-top: 5rem;
+}
